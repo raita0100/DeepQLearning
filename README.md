@@ -6,4 +6,5 @@
 + using [keras](https://keras.io) to design a deep learning model.
 + training the model and seeing the result 
 
+## the demo while training the model can be seen here
 ![demo out](Images/trim.gif)
