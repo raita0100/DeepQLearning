@@ -3,7 +3,7 @@
 
 ## Features
 + how to work with gym librarie in balancing the cartpole.
-+ using keras to design a deep learning model.
++ using [keras](https://keras.io) to design a deep learning model.
 + training the model and seeing the result 
 
 ![demo out](Images/trim.gif)
